@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!--
+Assignment 1.10 ECPI Unibersity
+
+Author:Kristopher Gonzalez
+Date: 28 Dec 2025
+Filename: CodeProject
+-->
+<meta charset="utf-8" />
+<meta name="description" content="Homepage for showcasing my background, projects, and contact information." />
+<meta name="keywords" content="student, portfolio, projects, GitHub Pages, HTML" />
+<meta name="author" content="Kristopher Gonzalez" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title> Krigon7136 Webpage </title>
+
+</head>
+    <body>
+
+<Header>
+<h1>
+ECPI University SDC260
+</h1>
+    <nav aria-label="Main">
+        <ul>
+<il><a href="#about">About</a></il>
+<il><a href="#projects">Projects</a></il>
+<il><a href="#contact">Contact</a></il>
+        </ul>
+    </nav>
+</Header>
+
+        <main>
+
+<section id="about">
+    <header>
+<h2>
+About
+</h2>
+    </header>
+<p>
+Hello! My name is Kris and I am learing about HTML from ECPI University.
+</p>
+</section>
+
+<section id="projects">
+    <header>
+<h2>
+Projects
+</h2>
+    </header>
+<p>
+Here are some sample projects I am working on.
+</p>
+</section>
+
+<section id="contact">
+    <header>
+<h2>
+Contact
+</h2>
+    </header>
+<p>
+You can reach me at: <a href="studentEmail@students.ecpi.edu"></a>
+</p>
+</section>
+
+        </main>
+    </body>
+</html>
